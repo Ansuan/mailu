@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mailu:
+  - apiVersion: v1
+    appVersion: "1.8"
+    created: "2021-04-01T18:26:23.1923831+02:00"
+    description: Mailu mail system
+    digest: daa96cb0655c69fb30aa6c94d7573b38ee722268c415669869b800be27f76d88
+    icon: https://mailu.io/master/_images/logo.png
+    name: mailu
+    urls:
+    - https://ansuan.github.io/mailu/mailu-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-01T18:26:23.1908829+02:00"
